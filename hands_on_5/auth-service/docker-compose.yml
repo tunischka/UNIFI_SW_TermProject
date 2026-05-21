@@ -1,0 +1,6 @@
+services:
+  auth:
+    build: .
+    ports:
+      - "8003:8083"
+    restart: unless-stopped
