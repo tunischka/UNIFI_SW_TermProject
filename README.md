@@ -1,4 +1,4 @@
-UNIFI_SW_TermProject
+## UNIFI_SW_TermProject
 Software Engineering term project — Authentication Library
 
 Author : Tunahan Gokgoz (matricola 7204825)
@@ -32,9 +32,11 @@ How to run
 ----------
 
 hands_on_1 : compile with javac, run Main.
+
 hands_on_4 : in microservices/quality (original repo),
              gcc-15 *.c -fprofile-arcs -ftest-coverage -o app
              lcov for the coverage report.
+             
 hands_on_5 : cd hands_on_5/auth-service
              mvn package
              docker compose up -d
