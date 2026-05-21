@@ -1,0 +1,1 @@
+genhtml coverage.info --output-directory /Users/tunahangokgoz/Desktop/hands_on_4/after/coverage_after
